@@ -12098,3 +12098,5 @@ RequestException:
 [Tue May 19 11:33:48 UTC 2026] Instance already running (PID: 135250). Exiting.
 [Tue May 19 11:33:58 UTC 2026] --- ARM Poller HA Service Boot ---
 [Tue May 19 11:33:58 UTC 2026] Instance already running (PID: 135250). Exiting.
+[Tue May 19 11:35:09 UTC 2026] --- ARM Poller HA Service Boot ---
+[Tue May 19 11:35:10 UTC 2026] Instance already running (PID: 135250). Exiting.
