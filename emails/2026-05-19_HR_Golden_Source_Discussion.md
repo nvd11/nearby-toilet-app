@@ -12,14 +12,14 @@
 
 I hope you are doing well.
 
-Following our recent discussion with Shirley regarding HR data sources, we would like to formally explore the integration process with the Group HR golden source for our key strategic initiatives: **RCDP (Regulatory Compliance Data Platform)** and **RCM (Regulatory Compliance Monitoring)**.
+Following our recent discussion with Shirley regarding HR data sources, we would like to formally explore the integration process with the Group HR golden source for our key strategic initiatives: **RCDP (Regulatory Compliance Data Platform)** and **RCM (Regulatory Change Management)**.
 
 **Project Background:**
-Both RCDP and RCM are critical components of our global compliance architecture. RCDP is our cloud-native data platform (replacing the legacy CDR), while RCM focuses on real-time monitoring and oversight. Both projects require highly accurate and timely **Employee/HR data** to support global compliance use cases, risk assessment, and identity-based monitoring.
+Both RCDP and RCM are critical components of our global compliance architecture. RCDP is our cloud-native data platform (replacing the legacy CDR), while RCM focuses on managing regulatory changes and their impact. Both projects require highly accurate and timely **Employee/HR data** to support global compliance use cases, risk assessment, and identity-driven change management workflows.
 
 **Anticipated Integration Requirements:**
 To assist with your assessment, here are our preliminary estimates for the data requirements:
-*   **Use Case:** Compliance monitoring and data provisioning for RCDP & RCM.
+*   **Use Case:** Compliance data provisioning and change management for RCDP & RCM.
 *   **Batch Size:** Approximately 1,000 employee records per request.
 *   **Frequency:** Once every 60 minutes.
 *   **Total Volume:** Global coverage (all active employees).
