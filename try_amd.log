@@ -1,0 +1,1936 @@
+[Sat May  9 02:26:28 UTC 2026] Attempting to launch AMD instance...
+[Sat May  9 02:26:28 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "623A87837DDB4DA08B3C6E2D351D4490/31B8CDD1BF2F5861B69BFE6953494E8E/5F0DC0BBB60583CE75A76494B7A06F39",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-09T02:28:07.077948+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sat May  9 04:15:21 UTC 2026] Attempting to launch AMD instance...
+[Sat May  9 04:15:21 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "3C11DA2B168947C596B5E569C4E5A563/30D081DA16DE9A1E3BB5FE6953494E1A/49133A66738578B5B1DB9F672795BE42",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-09T04:16:59.228768+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sat May  9 05:45:20 UTC 2026] Attempting to launch AMD instance...
+[Sat May  9 05:45:20 UTC 2026] Result: Out of capacity.
+[Sat May  9 06:15:17 UTC 2026] Attempting to launch AMD instance...
+[Sat May  9 06:15:17 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "204467ABEF7448D3B4F8327E315FD910/D45BA278B1CED6E356D1FE6953494ED9/A77624FC45BFAE769EE753CD035221D4",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-09T06:16:54.641428+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sat May  9 07:45:18 UTC 2026] Attempting to launch AMD instance...
+[Sat May  9 07:45:18 UTC 2026] Result: Out of capacity.
+[Sat May  9 09:15:21 UTC 2026] Attempting to launch AMD instance...
+[Sat May  9 09:15:21 UTC 2026] Result: Out of capacity.
+[Sat May  9 10:45:27 UTC 2026] Attempting to launch AMD instance...
+[Sat May  9 10:45:27 UTC 2026] Result: Out of capacity.
+[Sat May  9 12:15:20 UTC 2026] Attempting to launch AMD instance...
+[Sat May  9 12:15:20 UTC 2026] Result: Out of capacity.
+[Sat May  9 14:05:46 UTC 2026] Attempting to launch AMD instance...
+[Sat May  9 14:05:46 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "E5ADA9FBA8124C63AE6C88A5CFAF4C0C/65A8E92231FC5CF19D3FFF6953494ECF/9E92CB807E5591BA59791368D5326359",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-09T14:07:25.947535+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sat May  9 15:35:51 UTC 2026] Attempting to launch AMD instance...
+[Sat May  9 15:35:51 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "A3AAF3EEA9754D72A25A3FCDB4CA40BB/4DA1C3D2387B977ABA54FF6953494E07/4E2C31E6CFD703D8E800D5D6CC67D62B",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-09T15:37:30.493860+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sat May  9 17:05:48 UTC 2026] Attempting to launch AMD instance...
+[Sat May  9 17:05:48 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "91FA840F5FD64AB0B86F700260EBB3B3/BC769DF126FA039CCD69FF6953494E76/397D7565F3BF05F0932E33639B50A5DE",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-09T17:07:25.179148+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sat May  9 18:35:48 UTC 2026] Attempting to launch AMD instance...
+[Sat May  9 18:35:48 UTC 2026] Result: Out of capacity.
+[Sat May  9 20:14:24 UTC 2026] Attempting to launch AMD instance...
+[Sat May  9 20:14:24 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "60A6CB395A514679A95D831281B407AD/CE0FED53BDA6D2E70296FF6953494EEF/E3DFC282918643F9BE01420443624BAD",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-09T20:16:02.567818+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sat May  9 21:15:59 UTC 2026] Attempting to launch AMD instance...
+[Sat May  9 21:15:59 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "A9E4224932BC4895A10D387CB4F73A20/8FC5BC61F1ED426D6FA4FF6953494E26/45DA28963957E89BE4A3436357450084",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-09T21:17:35.467567+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sat May  9 22:45:57 UTC 2026] Attempting to launch AMD instance...
+[Sat May  9 22:45:57 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+RequestException:
+{
+    "client_version": "Oracle-PythonCLI/3.81.0",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "The connection to endpoint timed out.",
+    "request_endpoint": null,
+    "target_service": "CLI",
+    "timestamp": "2026-05-09T22:47:34.235115",
+    "troubleshooting_tips": " See [https://docs.oracle.com/iaas/Content/API/SDKDocs/clitroubleshooting.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sun May 10 00:15:53 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 00:15:53 UTC 2026] Result: Out of capacity.
+[Sun May 10 01:45:56 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 01:45:56 UTC 2026] Result: Out of capacity.
+[Sun May 10 03:15:53 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 03:15:53 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "1331E77173D4431DBB598FB3FB3D0C59/C77F91845FD6F59FCCF8FF6953494EDB/4F478C5747BE1F9C90D205FB55487299",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-10T03:17:33.082750+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sun May 10 04:45:53 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 04:45:53 UTC 2026] Result: Out of capacity.
+[Sun May 10 05:15:53 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 05:15:53 UTC 2026] Result: Out of capacity.
+[Sun May 10 05:45:52 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 05:45:52 UTC 2026] Result: Out of capacity.
+[Sun May 10 06:45:52 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 06:45:52 UTC 2026] Result: Out of capacity.
+[Sun May 10 08:16:03 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 08:16:03 UTC 2026] Result: Out of capacity.
+[Sun May 10 09:15:55 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 09:15:55 UTC 2026] Result: Out of capacity.
+[Sun May 10 10:15:53 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 10:15:53 UTC 2026] Result: Out of capacity.
+[Sun May 10 11:45:57 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 11:45:57 UTC 2026] Result: Out of capacity.
+[Sun May 10 12:15:56 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 12:15:56 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "3E269D53B82643BBA854408FD3685C5B/B4D1BE240AC7BB2E5F77006A53494E95/1CE6587B7663C757A8FE4F56277FA8FE",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-10T12:17:35.450016+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sun May 10 13:51:03 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 13:51:03 UTC 2026] Result: Out of capacity.
+[Sun May 10 15:21:07 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 15:21:07 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "E68DDA9328E34BA6896C076ECD2E0C64/1937778903306441C6A2006A53494E6A/4DEBBCED27CD6A95F26BDF6FD17AF0E3",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-10T15:22:46.591504+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sun May 10 16:51:05 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 16:51:05 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "6AD8378DE40540509C5A10574B440725/D4AB0D4A47F96FD1DBB7006A53494E12/575D96A3618C6255EB485BDF05DEBB56",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-10T16:52:44.024190+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sun May 10 18:21:02 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 18:21:02 UTC 2026] Result: Out of capacity.
+[Sun May 10 19:51:13 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 19:51:13 UTC 2026] Result: Out of capacity.
+[Sun May 10 20:51:02 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 20:51:02 UTC 2026] Result: Out of capacity.
+[Sun May 10 22:21:05 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 22:21:05 UTC 2026] Result: Out of capacity.
+[Sun May 10 23:51:04 UTC 2026] Attempting to launch AMD instance...
+[Sun May 10 23:51:04 UTC 2026] Result: Out of capacity.
+[Mon May 11 01:21:08 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 01:21:08 UTC 2026] Result: Out of capacity.
+[Mon May 11 02:21:08 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 02:21:08 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "7999DB68FFB64A9099E9D0DB6B125AEC/D623FCD11BE243B1773D016A53494E1E/850802464DAA7D99D601CF0314A151D9",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-11T02:22:47.463213+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 11 03:51:48 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 03:51:48 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "E46EB473BA1847678B8AE013D6E5CC2C/FF7E18C9EF492C04B752016A53494E07/2CE6C09A22868842388EF46B4712243C",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-11T03:53:27.105815+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 11 05:21:06 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 05:21:06 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "3C7B1E7537B541FCA9EABAEDD45A80CE/68CA4E2B36B39C22A267016A53494E14/AB912A205BCA44A509309FA1C1363A34",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-11T05:22:43.060641+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 11 05:51:06 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 05:51:06 UTC 2026] Result: Out of capacity.
+[Mon May 11 05:53:02 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 05:53:02 UTC 2026] Result: Out of capacity.
+[Mon May 11 05:54:56 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 05:54:56 UTC 2026] Result: Out of capacity.
+[Mon May 11 07:25:27 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 07:25:27 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "9C59DA3A904843EA8A48D84BE1A2850B/95102822F3060F10CA84016A53494EB7/11DF9ED3E7FA32A04F3E4D81961764A1",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-11T07:27:07.041198+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 11 08:55:40 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 08:55:40 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "A3F9BAA0348C4906BCC7B9DFC9C5F1DF/FCAC18EEB46CC36BEE99016A53494EB9/2BED82E7BCDCF323A9693E818BF4EB7B",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-11T08:57:18.908398+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 11 09:02:09 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 09:02:09 UTC 2026] Result: Out of capacity.
+[Mon May 11 09:10:50 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 09:10:50 UTC 2026] Result: Out of capacity.
+[Mon May 11 10:46:00 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 10:46:00 UTC 2026] Result: Out of capacity.
+[Mon May 11 11:46:05 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 11:46:05 UTC 2026] Result: Out of capacity.
+[Mon May 11 13:18:59 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 13:18:59 UTC 2026] Result: Out of capacity.
+[Mon May 11 14:48:37 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 14:48:37 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "244AA4F2E46A47F4A002AB338F6CDB7E/B2693C6BD7B43B54A6EC016A53494E03/00C5DA033F0BD3B3FB41B88EBDFF3740",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-11T14:50:14.846437+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 11 16:26:04 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 16:26:04 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "56A5F6F6F10A42BF847EDDBD801FAE90/A284F1AC875FC7577D03026A53494E65/FE98FB8DE96016CC6D6E2438CB67EA2F",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-11T16:27:41.833793+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 11 17:54:36 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 17:54:36 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the tenant",
+    "opc-request-id": "E9101E836B2F45F6B1008A6D62AA5D14/90BE4FA3DBFD38B44018026A53494EC3/BA11299C3F66E1EF57A6E81256256551",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-11T17:56:16.153143+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 11 19:40:50 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 19:40:50 UTC 2026] Result: Out of capacity.
+[Mon May 11 21:28:45 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 21:28:45 UTC 2026] Result: Out of capacity.
+[Mon May 11 23:02:57 UTC 2026] Attempting to launch AMD instance...
+[Mon May 11 23:02:57 UTC 2026] Result: Out of capacity.
+[Tue May 12 00:32:56 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 00:32:56 UTC 2026] Result: Out of capacity.
+[Tue May 12 02:02:53 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 03:34:48 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 03:34:48 UTC 2026] Result: Out of capacity.
+[Tue May 12 05:04:39 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 05:04:39 UTC 2026] Result: Out of capacity.
+[Tue May 12 05:06:28 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 05:06:28 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "AEC9CA7AB611477FB6C0EF01463A23BE/54B18BF2F1FBB6D6B6B5026A53494E14/0134B3F14C21561901524DDD7E75C627",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-12T05:08:06.967661+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Tue May 12 05:08:13 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 05:08:13 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "FA9AE11BA94847179693822A64E3FB36/32B9DB485D883E441FB6026A53494E1D/5780AE59970CE06B601BAC125892C34B",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-12T05:09:51.451875+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Tue May 12 05:38:15 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 05:38:15 UTC 2026] Result: Out of capacity.
+[Tue May 12 05:40:07 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 05:40:07 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "43D7BEA93D3046D3933098B9C931AF40/9DEE80F002F0A16E99BD026A53494ECD/A6906FACDB7475C5EA667A2D360ECD0B",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-12T05:41:46.066081+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Tue May 12 05:42:06 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 05:42:06 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "35208297BE59430B999D2D695987622D/BE97D799478823E411BE026A53494E22/A41FD1953BDA8D5E6D01296CE932F7C3",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-12T05:43:46.030550+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Tue May 12 05:43:56 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 05:43:56 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "100F9C1901764C64A51D5FAD8009E2CC/DF5C785F466E97D67FBE026A53494E18/7B702C16B63050FDC589FC25E8755B95",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-12T05:45:36.081925+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Tue May 12 05:45:47 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 05:45:47 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "EE651FFF5FF74BB6871A7852F7736749/86E3D988AAE3082CEDBE026A53494E6C/13ED4FC21E0ED367BF6114DBC1252728",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-12T05:47:25.804634+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Tue May 12 05:47:37 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 05:47:37 UTC 2026] Result: Out of capacity.
+[Tue May 12 05:49:34 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 05:49:34 UTC 2026] Result: Out of capacity.
+[Tue May 12 06:50:02 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 06:50:02 UTC 2026] Result: Out of capacity.
+[Tue May 12 07:50:00 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 07:50:00 UTC 2026] Result: Out of capacity.
+[Tue May 12 08:50:40 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 08:50:40 UTC 2026] Result: Out of capacity.
+[Tue May 12 09:00:19 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 09:00:19 UTC 2026] Result: Out of capacity.
+[Tue May 12 10:36:31 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 10:36:31 UTC 2026] Result: Out of capacity.
+[Tue May 12 12:06:24 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 12:06:24 UTC 2026] Result: Out of capacity.
+[Tue May 12 14:08:16 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 14:08:16 UTC 2026] Result: Out of capacity.
+[Tue May 12 15:08:43 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 15:08:43 UTC 2026] Result: Out of capacity.
+[Tue May 12 16:42:31 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 16:42:31 UTC 2026] Result: Out of capacity.
+[Tue May 12 18:29:35 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 18:29:35 UTC 2026] Result: Out of capacity.
+[Tue May 12 18:31:52 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 18:31:52 UTC 2026] Result: Out of capacity.
+[Tue May 12 18:33:48 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 18:33:48 UTC 2026] Result: Out of capacity.
+[Tue May 12 20:02:36 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 20:02:36 UTC 2026] Result: Out of capacity.
+[Tue May 12 21:38:17 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 21:38:17 UTC 2026] Result: Out of capacity.
+[Tue May 12 23:08:14 UTC 2026] Attempting to launch AMD instance...
+[Tue May 12 23:08:14 UTC 2026] Result: Out of capacity.
+[Wed May 13 00:08:06 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 00:08:06 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "6A7DE8326CE641E79E179162D0C401CA/DC681168636997E249C1036A53494E49/140C375464AD519D66F5E063DAABBFD2",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-13T00:09:45.259099+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Wed May 13 01:39:59 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 01:39:59 UTC 2026] Result: Out of capacity.
+[Wed May 13 03:09:56 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 03:09:56 UTC 2026] Result: Out of capacity.
+[Wed May 13 04:46:27 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 04:47:29 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 04:48:11 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 04:47:29 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "0BB7180A7A9A46B6ACFBA44DE975EC03/6B91D52DC8B8DA6BC302046A53494EC2/A53E9F81A5C806D42496D9A8D4AEC6A3",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-13T04:49:07.659118+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Wed May 13 04:48:11 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "9C714DABA854415586AE97A574EDAB2D/191A96B63FD56421EC02046A53494EAE/78E06EF5AC26F1E7E5E7A040D59D443D",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-13T04:49:48.352987+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Wed May 13 06:19:53 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 06:19:53 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "E92FFFC568F74A2FBD3C12C74A384E7F/103B159A292029686B18046A53494E47/9748D4D4CB280BBC67417E7B2609ABA6",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-13T06:21:31.794462+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Wed May 13 06:21:38 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 06:21:38 UTC 2026] Result: Out of capacity.
+[Wed May 13 06:53:22 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 06:55:13 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 06:55:13 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "E8B66C1A36A145319EFC3AC69E6DD795/DBF7CA6830C2429DB220046A53494ECE/90F999A295808F128B064CEAB70C4179",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-13T06:56:50.802648+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Wed May 13 06:57:01 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 06:57:01 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "75EF159222ED4E798B30C10DB4261393/9491EA8F9584D4171E21046A53494EF3/2E916348A98646654138569064699466",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-13T06:58:38.968144+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Wed May 13 06:58:45 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 06:58:45 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "B8F8C44F63D8427F97C394FDC4C9B320/46D96280CD1943E58721046A53494E82/0386247A66714F81AA705C5685BDA6D6",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-13T07:00:23.165776+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Wed May 13 07:00:35 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 07:00:35 UTC 2026] Result: Out of capacity.
+[Wed May 13 08:51:35 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 08:51:35 UTC 2026] Result: Out of capacity.
+[Wed May 13 09:50:30 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 09:50:30 UTC 2026] Result: Out of capacity.
+[Wed May 13 11:25:36 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 11:25:36 UTC 2026] Result: Out of capacity.
+[Wed May 13 12:56:19 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 12:56:19 UTC 2026] Result: Out of capacity.
+[Wed May 13 12:59:52 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 12:59:52 UTC 2026] Result: Out of capacity.
+[Wed May 13 14:05:03 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 14:05:03 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "6FA3F0E1A79849D39A612BF1CD058C99/C7D3B60C634ED7337185046A53494EBD/6F491C52F472CF87E1DCC36E974411A4",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-13T14:06:41.445822+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Wed May 13 16:19:11 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 16:19:11 UTC 2026] Result: Out of capacity.
+[Wed May 13 16:47:38 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 16:47:38 UTC 2026] Result: Out of capacity.
+[Wed May 13 16:49:27 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 16:49:27 UTC 2026] Result: Out of capacity.
+[Wed May 13 17:51:28 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 17:51:28 UTC 2026] Result: Out of capacity.
+[Wed May 13 19:17:56 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 19:17:56 UTC 2026] Result: Out of capacity.
+[Wed May 13 21:01:36 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 21:01:36 UTC 2026] Result: Out of capacity.
+[Wed May 13 21:31:29 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 21:31:29 UTC 2026] Result: Out of capacity.
+[Wed May 13 23:01:28 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 23:33:12 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 23:33:12 UTC 2026] Result: Out of capacity.
+[Wed May 13 23:34:55 UTC 2026] Attempting to launch AMD instance...
+[Wed May 13 23:34:55 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "D95F2199EBD94FF3BA65FB5153FFEF48/8F52219E1066F8FB000B056A53494ED7/54EC6146EC3B8EE685B4B73FA2A9E477",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-13T23:36:32.660717+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Thu May 14 01:01:50 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 01:01:50 UTC 2026] Result: Out of capacity.
+[Thu May 14 02:01:53 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 02:01:53 UTC 2026] Result: Out of capacity.
+[Thu May 14 02:04:00 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 02:04:00 UTC 2026] Result: Out of capacity.
+[Thu May 14 03:33:58 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 03:33:58 UTC 2026] Result: Out of capacity.
+[Thu May 14 05:15:10 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 05:15:10 UTC 2026] Result: Out of capacity.
+[Thu May 14 06:14:36 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 06:14:36 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "149E21FC13DB44B7AFD16DC4E07219C4/EEA18F801C615525AD68056A53494E43/C7FD274C500AD2EB73140477F4AF2638",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-14T06:16:13.648400+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Thu May 14 06:44:41 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 06:44:41 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+RequestException:
+{
+    "client_version": "Oracle-PythonCLI/3.81.0",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "The connection to endpoint timed out.",
+    "request_endpoint": null,
+    "target_service": "CLI",
+    "timestamp": "2026-05-14T06:46:20.217058",
+    "troubleshooting_tips": " See [https://docs.oracle.com/iaas/Content/API/SDKDocs/clitroubleshooting.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Thu May 14 07:14:36 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 07:14:36 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "21C55976143A4FDD9AF971BD0B09FD0C/85A47941A50A958ABF76056A53494EB5/0D8BD60D0CEA2D38FE3BE7C0C551F347",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-14T07:16:16.038959+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Thu May 14 07:44:37 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 07:44:37 UTC 2026] Result: Out of capacity.
+[Thu May 14 08:14:38 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 08:14:38 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "9E9CFDB3A27F46988371E503E9C44CBA/6463F751081B2B30D184056A53494E25/DC769B7E3266A4AE53C53F2D0CD848B5",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-14T08:16:17.098115+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Thu May 14 09:14:36 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 09:14:36 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+RequestException:
+{
+    "client_version": "Oracle-PythonCLI/3.81.0",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "The connection to endpoint timed out.",
+    "request_endpoint": null,
+    "target_service": "CLI",
+    "timestamp": "2026-05-14T09:16:14.884541",
+    "troubleshooting_tips": " See [https://docs.oracle.com/iaas/Content/API/SDKDocs/clitroubleshooting.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Thu May 14 10:43:06 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 10:43:06 UTC 2026] Result: Out of capacity.
+[Thu May 14 12:28:53 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 12:28:53 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "368CCCF443D049918FE98D9D687C84E3/30B84B4C143E61E165C0056A53494E06/B6F1CD56577827408E71F16E95ACA9E6",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-14T12:30:29.117017+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Thu May 14 14:06:03 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 14:07:53 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 14:07:53 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+RequestException:
+{
+    "client_version": "Oracle-PythonCLI/3.81.0",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "The connection to endpoint timed out.",
+    "request_endpoint": null,
+    "target_service": "CLI",
+    "timestamp": "2026-05-14T14:09:30.389653",
+    "troubleshooting_tips": " See [https://docs.oracle.com/iaas/Content/API/SDKDocs/clitroubleshooting.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Thu May 14 16:31:36 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 16:31:36 UTC 2026] Result: Out of capacity.
+[Thu May 14 17:26:02 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 18:27:50 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 18:27:50 UTC 2026] Result: Out of capacity.
+[Thu May 14 18:30:16 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 18:30:16 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "FB9E2B8D465C4F899BF868517BD774F2/5F507C92A652EDB71915066A53494E8B/A2B27C3559280F609111734861FC1D14",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-14T18:31:53.936365+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Thu May 14 20:12:25 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 20:12:25 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "9C98F37F547B421C89EAE4932332BA9C/98A2767911A24D5D092D066A53494EE5/5B8381A2DD7F9046E68043AD30E8A70A",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-14T20:14:01.853155+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Thu May 14 21:12:21 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 21:12:21 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "17DF6C6799364D09AB5F51CF6D44608E/7BA35668B0EC3A98163B066A53494E89/B811A3062AFCE083DACC1E57E01AC72F",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-14T21:13:59.057858+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Thu May 14 21:42:18 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 21:42:18 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+RequestException:
+{
+    "client_version": "Oracle-PythonCLI/3.81.0",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "The connection to endpoint timed out.",
+    "request_endpoint": null,
+    "target_service": "CLI",
+    "timestamp": "2026-05-14T21:43:56.448345",
+    "troubleshooting_tips": " See [https://docs.oracle.com/iaas/Content/API/SDKDocs/clitroubleshooting.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Thu May 14 22:42:22 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 22:42:22 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "039F4F0CB22E4715816445377AAAAEFC/A6E44C1B2963C6BF2F50066A53494EE5/97BF04712B3E9DE23BB9605C96C1C847",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-14T22:43:59.808541+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Thu May 14 23:42:17 UTC 2026] Attempting to launch AMD instance...
+[Thu May 14 23:42:17 UTC 2026] Result: Out of capacity.
+[Fri May 15 00:42:22 UTC 2026] Attempting to launch AMD instance...
+[Fri May 15 00:42:22 UTC 2026] Result: Out of capacity.
+[Fri May 15 01:12:28 UTC 2026] Attempting to launch AMD instance...
+[Fri May 15 01:12:28 UTC 2026] Result: Out of capacity.
+[Fri May 15 02:42:23 UTC 2026] Attempting to launch AMD instance...
+[Fri May 15 02:42:23 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "0D415C3911534E3299051755B5AF130D/7CC937CF81F6359C6E88066A53494E7D/A06F333DF70A6D793D84FE8252653744",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-15T02:43:59.058653+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Fri May 15 04:23:59 UTC 2026] Attempting to launch AMD instance...
+[Fri May 15 04:23:59 UTC 2026] Result: Out of capacity.
+[Fri May 15 05:54:00 UTC 2026] Attempting to launch AMD instance...
+[Fri May 15 05:54:00 UTC 2026] Result: Out of capacity.
+[Fri May 15 07:25:54 UTC 2026] Attempting to launch AMD instance...
+[Fri May 15 07:25:54 UTC 2026] Result: Out of capacity.
+[Fri May 15 08:56:14 UTC 2026] Attempting to launch AMD instance...
+[Fri May 15 08:56:14 UTC 2026] Result: Out of capacity.
+[Fri May 15 10:25:53 UTC 2026] Attempting to launch AMD instance...
+[Fri May 15 10:25:53 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+RequestException:
+{
+    "client_version": "Oracle-PythonCLI/3.81.0",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "The connection to endpoint timed out.",
+    "request_endpoint": null,
+    "target_service": "CLI",
+    "timestamp": "2026-05-15T10:27:33.195552",
+    "troubleshooting_tips": " See [https://docs.oracle.com/iaas/Content/API/SDKDocs/clitroubleshooting.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Fri May 15 10:27:59 UTC 2026] Attempting to launch AMD instance...
+[Fri May 15 10:27:59 UTC 2026] Result: Out of capacity.
+[Fri May 15 11:58:05 UTC 2026] Attempting to launch AMD instance...
+[Fri May 15 11:58:05 UTC 2026] Result: Out of capacity.
+[Fri May 15 13:28:09 UTC 2026] Attempting to launch AMD instance...
+[Fri May 15 13:28:09 UTC 2026] Result: Out of capacity.
+[Fri May 15 14:58:12 UTC 2026] Attempting to launch AMD instance...
+[Fri May 15 14:58:12 UTC 2026] Result: Out of capacity.
+[Fri May 15 16:28:05 UTC 2026] Attempting to launch AMD instance...
+[Fri May 15 16:28:05 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+RequestException:
+{
+    "client_version": "Oracle-PythonCLI/3.81.0",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "The connection to endpoint timed out.",
+    "request_endpoint": null,
+    "target_service": "CLI",
+    "timestamp": "2026-05-15T16:29:43.620924",
+    "troubleshooting_tips": " See [https://docs.oracle.com/iaas/Content/API/SDKDocs/clitroubleshooting.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Fri May 15 17:58:09 UTC 2026] Attempting to launch AMD instance...
+[Fri May 15 17:58:09 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+RequestException:
+{
+    "client_version": "Oracle-PythonCLI/3.81.0",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "The connection to endpoint timed out.",
+    "request_endpoint": null,
+    "target_service": "CLI",
+    "timestamp": "2026-05-15T17:59:47.674685",
+    "troubleshooting_tips": " See [https://docs.oracle.com/iaas/Content/API/SDKDocs/clitroubleshooting.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Fri May 15 19:28:05 UTC 2026] Attempting to launch AMD instance...
+[Fri May 15 19:28:05 UTC 2026] Result: Out of capacity.
+[Fri May 15 21:08:53 UTC 2026] Attempting to launch AMD instance...
+[Fri May 15 21:08:53 UTC 2026] Result: Out of capacity.
+[Fri May 15 22:38:52 UTC 2026] Attempting to launch AMD instance...
+[Fri May 15 22:38:52 UTC 2026] Result: Out of capacity.
+[Sat May 16 00:10:37 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 00:10:37 UTC 2026] Result: Out of capacity.
+[Sat May 16 01:42:23 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 01:42:23 UTC 2026] Result: Out of capacity.
+[Sat May 16 03:14:10 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 03:14:10 UTC 2026] Result: Out of capacity.
+[Sat May 16 04:16:01 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 04:16:01 UTC 2026] Result: Out of capacity.
+[Sat May 16 05:45:58 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 05:45:58 UTC 2026] Result: Out of capacity.
+[Sat May 16 06:46:00 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 06:46:00 UTC 2026] Result: Out of capacity.
+[Sat May 16 07:17:49 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 07:17:49 UTC 2026] Result: Out of capacity.
+[Sat May 16 07:47:49 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 07:47:49 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+RequestException:
+{
+    "client_version": "Oracle-PythonCLI/3.81.0",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "The connection to endpoint timed out.",
+    "request_endpoint": null,
+    "target_service": "CLI",
+    "timestamp": "2026-05-16T07:49:27.631555",
+    "troubleshooting_tips": " See [https://docs.oracle.com/iaas/Content/API/SDKDocs/clitroubleshooting.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sat May 16 09:17:47 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 09:17:47 UTC 2026] Result: Out of capacity.
+[Sat May 16 10:47:48 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 10:47:48 UTC 2026] Result: Out of capacity.
+[Sat May 16 11:46:58 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 11:46:58 UTC 2026] Result: Out of capacity.
+[Sat May 16 11:48:46 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 11:48:46 UTC 2026] Result: Out of capacity.
+[Sat May 16 13:25:13 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 13:25:13 UTC 2026] Result: Out of capacity.
+[Sat May 16 14:55:12 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 14:55:12 UTC 2026] Result: Out of capacity.
+[Sat May 16 16:25:12 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 16:25:12 UTC 2026] Result: Out of capacity.
+[Sat May 16 17:55:12 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 17:55:12 UTC 2026] Result: Out of capacity.
+[Sat May 16 19:25:12 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 19:25:12 UTC 2026] Result: Out of capacity.
+[Sat May 16 20:38:21 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 20:39:44 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 20:40:49 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 20:40:49 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "E7873A99480B4791B34E781D470CAA90/C9690E212B2B1828B2D6086A53494EAF/DC5BC596CA68FAA7860061CD6351AD56",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-16T20:42:26.253389+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sat May 16 22:44:08 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 22:44:08 UTC 2026] Result: Out of capacity.
+[Sat May 16 23:19:10 UTC 2026] Attempting to launch AMD instance...
+[Sat May 16 23:19:10 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "DC8BC57373364EAF85C539B04FA43187/6FFAF08B51E375C1CFFB086A53494E37/53A2DC663111F717A6C2F50038942554",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-16T23:20:47.246450+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sun May 17 01:01:35 UTC 2026] Attempting to launch AMD instance...
+[Sun May 17 01:01:35 UTC 2026] Result: Out of capacity.
+[Sun May 17 02:31:35 UTC 2026] Attempting to launch AMD instance...
+[Sun May 17 02:31:35 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+RequestException:
+{
+    "client_version": "Oracle-PythonCLI/3.81.0",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "The connection to endpoint timed out.",
+    "request_endpoint": null,
+    "target_service": "CLI",
+    "timestamp": "2026-05-17T02:33:12.972540",
+    "troubleshooting_tips": " See [https://docs.oracle.com/iaas/Content/API/SDKDocs/clitroubleshooting.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sun May 17 04:01:40 UTC 2026] Attempting to launch AMD instance...
+[Sun May 17 04:01:40 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "1CD08CF60A4042A5A14AC59A618906D5/5B74008640CB8156043E096A53494E04/57A302E2DF31D20B314179DAF536D413",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-17T04:03:16.484636+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sun May 17 05:31:40 UTC 2026] Attempting to launch AMD instance...
+[Sun May 17 05:31:40 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "CACB2E0477C842B1AB5E44B89CBDDB74/05E7603E559B6D3D1D53096A53494E92/27E8F2C0897A7485984CBC39FB5C221C",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-17T05:33:17.939194+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sun May 17 06:21:22 UTC 2026] Attempting to launch AMD instance...
+[Sun May 17 06:21:22 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "CBD0C972075D4053B3427F1AF87034F2/95E697C443B1AA06C55E096A53494E7E/C930A11B061688AE9E2420BB577362ED",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-17T06:23:02.021294+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sun May 17 07:51:22 UTC 2026] Attempting to launch AMD instance...
+[Sun May 17 07:51:22 UTC 2026] Result: Out of capacity.
+[Sun May 17 20:22:51 UTC 2026] Attempting to launch AMD instance...
+[Sun May 17 20:22:51 UTC 2026] Result: Out of capacity.
+[Sun May 17 20:24:53 UTC 2026] Attempting to launch AMD instance...
+[Sun May 17 20:24:53 UTC 2026] Result: Out of capacity.
+[Sun May 17 21:35:36 UTC 2026] Attempting to launch AMD instance...
+[Sun May 17 21:35:36 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "0BBCBF0249A9450EB90301220E1075F0/8710E81A7F0A9D3609350A6A53494E38/3FF03A29A6A4B44AA55BF2F20E11EF83",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-17T21:37:13.608304+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Sun May 17 23:05:39 UTC 2026] Attempting to launch AMD instance...
+[Sun May 17 23:05:39 UTC 2026] Result: Out of capacity.
+[Mon May 18 00:35:38 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 00:35:38 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "E5BD7E2DC2DE4BFB9A34E5B7A5669BCE/83E93D9F0BF3AA623D5F0A6A53494E45/9F4FD1730CAA33D431601FB7D8A9A2DE",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T00:37:17.630515+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 02:05:38 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 02:05:38 UTC 2026] Result: Out of capacity.
+[Mon May 18 02:35:37 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 02:35:37 UTC 2026] Result: Out of capacity.
+[Mon May 18 03:05:37 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 03:05:37 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "902316C890AE403284D2A263B0976B8B/2F4722F18D5D733163820A6A53494E22/42D61BEED74A5C75256A65F9D4C8881A",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T03:07:15.901771+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 04:05:37 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 04:05:37 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "1AE4AC4AFCB34D328764ED58AD737D53/E36A0C5174A24B2573900A6A53494E9F/F5CB4CF69E3CA006FEE0BF4D2CDA48D9",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T04:07:16.045234+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 05:07:20 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 05:07:20 UTC 2026] Result: Out of capacity.
+[Mon May 18 05:39:03 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 05:39:03 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "FE8D244DCCD24EF782F1C5690703ACA1/528C4D11FA4152C95BA60A6A53494ECB/C5AF40000CCD4A59CF211DFDB85CAC46",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T05:40:43.267302+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 06:09:03 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 06:09:03 UTC 2026] Result: Out of capacity.
+[Mon May 18 06:10:48 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 06:10:48 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "4E5DE921C9FF408294619881E8BE3BC7/AB007A39C4C6D737CAAD0A6A53494E66/8DB890DBAC33C58F801008E24F78132C",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T06:12:27.073057+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 06:12:31 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 06:12:31 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "19D67CD9714846D4B375CA9594E01427/E0E21A6C797AC20332AE0A6A53494E05/AB5B8C0B091F62B51F06B29ED3BBF6C7",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T06:14:10.503256+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 06:40:48 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 06:40:48 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "F05C12F2FBE249D7809854765E8E090E/3C24D302FBCE9F02D1B40A6A53494EC0/ED818228FCA35541922B0C79E9393E10",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T06:42:25.527871+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 07:10:48 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 07:10:48 UTC 2026] Result: Out of capacity.
+[Mon May 18 07:12:32 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 07:12:32 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "E7E83D1079BA4B89A2452AB433D5ADF1/27EED54D2CBCCB8B42BC0A6A53494E9A/D9EC2413470EE713B5E1C9A42BB89DC6",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T07:14:10.640551+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 07:40:48 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 07:40:48 UTC 2026] Result: Out of capacity.
+[Mon May 18 07:42:30 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 07:42:30 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "3C32BF1A00BA4E8E95A91B8F618494BD/D016732D485D1FD048C30A6A53494E62/027A1DED1118B20A14CF49C46B252B44",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T07:44:08.505806+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 08:12:31 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 08:12:31 UTC 2026] Result: Out of capacity.
+[Mon May 18 08:44:57 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 08:44:57 UTC 2026] Result: Out of capacity.
+[Mon May 18 09:14:55 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 09:14:55 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "064FD927942D4E15ADAE5AE9FA8D9D70/9BAC14781423CF7FF2D80A6A53494E79/6BDA8BBB733DC1935FAD6A2149CB6CC9",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T09:16:34.680617+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 09:16:40 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 09:16:40 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "FBA5FFD8F09D4AB7A5ACF6B8B74C2387/54EA97D69AA628B05AD90A6A53494E08/67DBDBC39A89F9BFCD5A61A9D39DB476",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T09:18:18.085007+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 09:25:56 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 09:25:56 UTC 2026] Result: Out of capacity.
+[Mon May 18 10:26:09 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 10:26:09 UTC 2026] Result: Out of capacity.
+[Mon May 18 10:31:21 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 10:31:21 UTC 2026] Result: Out of capacity.
+[Mon May 18 11:01:24 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 11:01:24 UTC 2026] Result: Out of capacity.
+[Mon May 18 11:31:23 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 11:31:23 UTC 2026] Result: Out of capacity.
+[Mon May 18 11:33:07 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 11:33:07 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+RequestException:
+{
+    "client_version": "Oracle-PythonCLI/3.81.0",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "The connection to endpoint timed out.",
+    "request_endpoint": null,
+    "target_service": "CLI",
+    "timestamp": "2026-05-18T11:34:46.184304",
+    "troubleshooting_tips": " See [https://docs.oracle.com/iaas/Content/API/SDKDocs/clitroubleshooting.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 12:03:08 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 12:03:08 UTC 2026] Result: Out of capacity.
+[Mon May 18 12:33:09 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 12:33:09 UTC 2026] Result: Out of capacity.
+[Mon May 18 13:07:40 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 13:07:40 UTC 2026] Result: Out of capacity.
+[Mon May 18 13:59:55 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 13:59:55 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "0C731918F4F44308BAC7F19BAB521D93/FB133DCFE3D075A9BC1B0B6A53494E40/BF2472E6BD52AA42A40BB12767E6BC3E",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T14:01:32.685160+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 14:29:58 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 14:29:58 UTC 2026] Result: Out of capacity.
+[Mon May 18 14:59:55 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 14:59:55 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "17C948C61F8D4A20BC18C1811AA1A842/E210773849E5BFD2CD290B6A53494E4C/9FEF5DEC690E95FA3E98709140A3B0FA",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T15:01:33.150154+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 16:13:04 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 16:13:04 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "4B570972CD1441DF9C5D2C03C4410922/4DA9162A79210A94F43A0B6A53494E64/692AC93D6B5C3980A6EC1027C66B96FA",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T16:14:44.169792+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 17:18:10 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 17:18:10 UTC 2026] Result: Out of capacity.
+[Mon May 18 17:19:54 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 17:19:54 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "F6A2D759971345A294C5FA73EFABB83A/3C700B7EEDE064ED9B4A0B6A53494E14/F2A048FFF45BE78B8A1D336E85BD25B4",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T17:21:31.890880+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 18:19:55 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 18:19:55 UTC 2026] Result: Out of capacity.
+[Mon May 18 18:49:55 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 18:49:55 UTC 2026] Result: Out of capacity.
+[Mon May 18 19:19:54 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 19:19:54 UTC 2026] Result: Out of capacity.
+[Mon May 18 19:21:40 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 19:21:40 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "10D26CAA09154383A12CAA6EAD8CD5E6/0F40D3EBFC2D0D9826670B6A53494EFF/29C3E1FD500375E5163512257CB9BE0A",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T19:23:18.829522+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 19:51:40 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 19:52:57 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 19:51:40 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "00A464B22A00454F8B1138171F06DD83/BA54D66072F31F802F6E0B6A53494ED6/3261A5CF0E1B0B100512B1044E37DBE7",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T19:53:19.683196+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 19:53:51 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 19:52:57 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "5D4F46FFBB7A42B9AF831BBF175BB351/7B908F2B2B8C874E796E0B6A53494E99/22123698CD5DBCA22C4C6AFCFAC7FAFF",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T19:54:33.421314+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 19:53:51 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "6DD1D23EDD5C40C78D6AF4C42A8EEE50/ABFCD7FB8DB722CCB26E0B6A53494ED5/E2E02EDE93B1B3B2245E0723203F2A40",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T19:55:30.531140+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 19:55:48 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 19:55:48 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "8481C3AE8EB2467895271A09DB02E6DA/7C4A2D5D2C28656D266F0B6A53494E11/A2CE4B516195CDD32A9053041EC06EE5",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T19:57:26.903346+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 20:21:36 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 20:21:36 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "F06756E9A5984183B39948EEA770E496/DC46BFB70608CD5330750B6A53494ED1/FF9652197501F0E389D0560B9DFF946A",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T20:23:12.459984+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 20:23:16 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 20:23:16 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+RequestException:
+{
+    "client_version": "Oracle-PythonCLI/3.81.0",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "The connection to endpoint timed out.",
+    "request_endpoint": null,
+    "target_service": "CLI",
+    "timestamp": "2026-05-18T20:24:54.091832",
+    "troubleshooting_tips": " See [https://docs.oracle.com/iaas/Content/API/SDKDocs/clitroubleshooting.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 20:47:22 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 20:47:22 UTC 2026] Result: Out of capacity.
+[Mon May 18 21:17:21 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 21:17:21 UTC 2026] Result: Out of capacity.
+[Mon May 18 21:47:21 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 21:47:21 UTC 2026] Result: Out of capacity.
+[Mon May 18 22:17:21 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 22:18:37 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 22:17:21 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "8C57E2C59633400AA25E6F6BF943EC78/687C362E64461ED052900B6A53494EF6/6B8157ED4D12EAAB20B2EFE4990FB3E2",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T22:18:58.580865+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 22:20:14 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 22:18:37 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "LimitExceeded",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "The following service limits were exceeded: standard-e2-micro-core-count. You can request a service limit increase from the Console's Limits, Quotas and Usage page or from the Help menu.",
+    "opc-request-id": "FD26BEEA85C6499D9EFAE418C4540E02/009CB1FD2A634A599F900B6A53494E52/A5E4F7827B0D3CB051CFF988F461CB17",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 400,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T22:20:16.460979+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 22:20:14 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "5E9C20BBF60B49C7B75D1A3D7A05A87C/56D8A3A064224F3D00910B6A53494E09/435178E8AC9603DCEE2E9D0244D79E3A",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T22:21:52.406605+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 22:21:55 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 22:21:55 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "D939D53A03DC4CE5833B65EFD8F5751B/587C12E1000C26BC66910B6A53494E4C/AED370ABCFB3EB5361786967130A3830",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-18T22:23:34.704135+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Mon May 18 22:49:28 UTC 2026] Attempting to launch AMD instance...
+[Mon May 18 22:49:28 UTC 2026] Result: Out of capacity.
+[Tue May 19 01:30:36 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 01:30:36 UTC 2026] Result: Out of capacity.
+[Tue May 19 01:32:27 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 01:32:27 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "46915426B44848E599491219B89C0644/4B51D16A473A69950DBE0B6A53494EC9/E5FD5C69CE2EF7C71D2DDE50DD7F52B5",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-19T01:34:05.700302+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Tue May 19 02:02:29 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 02:02:29 UTC 2026] Result: Out of capacity.
+[Tue May 19 02:04:35 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 02:04:35 UTC 2026] Result: Out of capacity.
+[Tue May 19 02:36:29 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 02:36:29 UTC 2026] Result: Out of capacity.
+[Tue May 19 03:08:23 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 03:08:23 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "F676FA1CA98B46ADB27F5AC9FA48BD2E/E2E8983FEB26C99389D40B6A53494E91/20B7024A16F11C0893CBFD9F462ED563",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-19T03:10:02.009246+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Tue May 19 03:40:13 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 03:40:13 UTC 2026] Result: Out of capacity.
+[Tue May 19 04:11:59 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 04:11:59 UTC 2026] Result: Out of capacity.
+[Tue May 19 05:41:56 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 05:41:56 UTC 2026] Result: Out of capacity.
+[Tue May 19 07:13:48 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 07:13:48 UTC 2026] Result: Out of capacity.
+[Tue May 19 07:15:34 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 07:15:34 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "A2DA4E7B6F7045F29F41994415A731AA/D5EE973B6D6A3504780E0C6A53494ED0/02E656D83B21625D3394D6304F9A6A89",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-19T07:17:12.802535+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Tue May 19 07:17:22 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 07:17:22 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "D6DA719AA4D34C64BB1D30062372D27C/2549281786221C44E40E0C6A53494E33/BDDC67B4A50F4F91FA8D7ED06430C933",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-19T07:19:00.778889+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Tue May 19 07:19:10 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 07:19:10 UTC 2026] Result: Out of capacity.
+[Tue May 19 07:20:56 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 07:20:56 UTC 2026] Result: Out of capacity.
+[Tue May 19 07:22:42 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 07:22:42 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "978ACD195E2147E7A4DA4E4587FA1A1D/FCF01272E44A3C4023100C6A53494E94/474F80957CE60A487E365828C8CF6525",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-19T07:24:19.892000+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Tue May 19 07:24:30 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 07:24:30 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "3E42C40395F84F54A60D86F10F5DD93F/385A18183AAF67C191100C6A53494E11/1FB0AF0A62868FFE89239047DB0F3DB0",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-19T07:26:09.777023+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Tue May 19 07:26:19 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 07:26:19 UTC 2026] Result: Out of capacity.
+[Tue May 19 07:28:05 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 07:28:05 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "269313217C9F4E8F910532A20AB7A8C8/A1659E7A6F09C2CB67110C6A53494E89/9AFE1AE1EF7C03605F06C73EDFD6CBDB",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-19T07:29:43.543788+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Tue May 19 07:29:53 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 07:29:53 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "2C1AB28AA5744F89914EAC3CBF529743/AF9F6140D31EC703D3110C6A53494E3A/AB2D56854FD2085061BFAC1C7273D46F",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-19T07:31:31.835414+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Tue May 19 07:31:42 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 07:31:42 UTC 2026] Result: Out of capacity.
+[Tue May 19 08:01:41 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 08:01:41 UTC 2026] Result: Out of capacity.
+[Tue May 19 08:33:33 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 08:33:33 UTC 2026] Result: Out of capacity.
+[Tue May 19 08:35:21 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 08:35:21 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "8D79F3BE70FE4387BF9F2A540638D661/D1CFC67684DFAF0A2B210C6A53494E23/61653F05F90F43D930FF64FADD99B8E2",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-19T08:36:59.779808+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Tue May 19 08:37:09 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 08:37:09 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+ServiceError:
+{
+    "client_version": "Oracle-PythonSDK/2.173.0, Oracle-PythonCLI/3.81.0",
+    "code": "TooManyRequests",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "Too many requests for the user",
+    "opc-request-id": "6CB8F027BDED401E9A65AE833D9E3F05/62AEB2866BFE796998210C6A53494EFC/AB7B1ED59718A1162662A3A318D59906",
+    "operation_name": "launch_instance",
+    "request_endpoint": "POST https://iaas.ap-singapore-1.oraclecloud.com/20160918/instances",
+    "status": 429,
+    "target_service": "compute",
+    "timestamp": "2026-05-19T08:38:48.582319+00:00",
+    "troubleshooting_tips": "See [https://docs.oracle.com/iaas/Content/API/References/apierrors.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}
+[Tue May 19 10:09:14 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 10:09:14 UTC 2026] Result: Out of capacity.
+[Tue May 19 10:39:14 UTC 2026] Attempting to launch AMD instance...
+[Tue May 19 10:39:14 UTC 2026] Result: Unknown response or error.
+Warning: To increase security of your API key located at /home/gateman/.openclaw/workspace/alice-sa.pem, append an extra line with 'OCI_API_KEY' at the end. For more information, refer to https://docs.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm. To suppress the warning, set the env variable SUPPRESS_LABEL_WARNING=True
+RequestException:
+{
+    "client_version": "Oracle-PythonCLI/3.81.0",
+    "logging_tips": "Please run the OCI CLI command using --debug flag to find more debug information.",
+    "message": "The connection to endpoint timed out.",
+    "request_endpoint": null,
+    "target_service": "CLI",
+    "timestamp": "2026-05-19T10:40:51.237918",
+    "troubleshooting_tips": " See [https://docs.oracle.com/iaas/Content/API/SDKDocs/clitroubleshooting.htm] for more information about resolving this error. If you are unable to resolve this issue, run this CLI command with --debug option and contact Oracle support and provide them the full error message."
+}

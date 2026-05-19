@@ -1,0 +1,32 @@
+{
+  "setting_id": "example_setting_01",
+  "dataset_name": "case1_eval_dataset",
+  "overall_summary": {
+    "quality_score": 0.0,
+    "latency_seconds": 0.0,
+    "cost_estimate": 0.0
+  },
+  "stage_metrics": {
+    "retrieval": {},
+    "reranking": {},
+    "generation": {},
+    "end_to_end": {}
+  },
+  "diagnosis": [
+    {
+      "issue": "example_issue",
+      "evidence": [
+        "metric_a low",
+        "metric_b degraded after reranking"
+      ],
+      "likely_root_causes": [
+        "chunk size too large",
+        "reranker domain mismatch"
+      ],
+      "recommended_actions": [
+        "try section-aware chunking",
+        "switch reranker or disable reranking for this corpus"
+      ]
+    }
+  ]
+}

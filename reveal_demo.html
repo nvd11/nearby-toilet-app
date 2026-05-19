@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Reveal.js 分节演示 - 专属 Demo</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reset.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/theme/dracula.min.css">
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+      
+      <!-- Section 1 (横向的第一大节) -->
+      <section>
+        <!-- 垂直向下是本节的详细内容页 -->
+        <section data-transition="slide">
+          <h2>第一部分 (Section 1)</h2>
+          <p>横向切换大章节，向下划动看本节细节 👇</p>
+        </section>
+        <section data-transition="convex">
+          <h2>第一部分：详细内容</h2>
+          <p class="fragment fade-up">我是内部第一页的内容，按键盘 ↓ 继续</p>
+          <p class="fragment fade-left">我们的结构是完全独立的哦</p>
+        </section>
+      </section>
+
+      <!-- Section 2 (横向的第二大节) -->
+      <section>
+        <section data-transition="zoom">
+          <h2>第二部分 (Section 2)</h2>
+          <p>看，这里和第一部分完全互不干扰。继续向下 👇</p>
+        </section>
+        <section data-transition="concave">
+          <h2>第二部分：动画演示</h2>
+          <ul>
+            <li class="fragment grow">老板说要 Reveal.js</li>
+            <li class="fragment strike">我居然给原生 PPT</li>
+            <li class="fragment highlight-red">真的是白痴了，求老板原谅 🥺</li>
+          </ul>
+        </section>
+      </section>
+
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.min.js"></script>
+  <script>
+    Reveal.initialize({
+      controls: true,
+      progress: true,
+      center: true,
+      hash: true, // URL 栏显示当前页码
+      transition: 'slide' // 全局默认动画
+    });
+  </script>
+</body>
+</html>

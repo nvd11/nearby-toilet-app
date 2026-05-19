@@ -1,0 +1,11 @@
+Researching Cloud Run for SFTP:
+Cloud Run supports TCP via HTTP/2 and WebSockets, but standard Cloud Run (fully managed) historically only supported HTTP/HTTPS traffic on port 8080.
+Recently, GCP introduced Cloud Run support for WebSockets, HTTP/2, and gRPC.
+However, SFTP is a pure TCP protocol running on port 22. 
+Does Cloud Run support pure TCP ingress yet?
+As of late 2023/2024, Cloud Run does not natively support arbitrary TCP/UDP ingress on port 22 directly from the public internet without a load balancer. 
+Wait, Cloud Run recently added multi-container support and some advanced networking, but standard SFTP protocol (TCP/22) is still not a first-class citizen for Cloud Run's native HTTP load balancer.
+BUT, you can put an Internal TCP/UDP Load Balancer in front of Cloud Run? No, Cloud Run is serverless NEG. Serverless NEGs support HTTP(S) load balancing, not TCP proxy.
+Wait, what if they use Cloud Run with a sidecar or run an SSH daemon? The container only receives traffic on the $PORT environment variable.
+So, native SFTP (TCP/22) directly on Cloud Run is technically extremely difficult or not officially supported because of the ingress routing layer.
+Compute Engine or GKE are the standard ways to run SFTP on GCP.

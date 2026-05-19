@@ -1,0 +1,10 @@
+GCP does NOT have a fully managed, native first-party "Cloud SFTP" product exactly like AWS Transfer Family.
+However, in recent years, Google Cloud Marketplace offers partner solutions, and Google recommends specific reference architectures.
+Wait, let's verify if GCP released a managed SFTP recently.
+Google Cloud Storage (GCS) does not natively speak SFTP.
+AWS has "AWS Transfer Family" for S3.
+Azure has "AWS Transfer Family" equivalent (Azure Blob Storage SFTP).
+GCP has "SFTP for GCS" via third-party marketplace solutions (like Couchdrop, SFTP Gateway by Thorn Technologies).
+Wait, Google Cloud actually DOES have a managed offering via partners or "Storage Transfer Service"? No, Storage Transfer is for data movement.
+So building an SFTP server on GCP VM (Compute Engine) + GCS Fuse IS actually the standard, official Google Cloud reference architecture for SFTP if you don't want to buy a third-party marketplace SaaS.
+Let me write an explanation for the boss.

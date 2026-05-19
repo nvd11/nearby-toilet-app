@@ -1,0 +1,112 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: rule
+log-level: info
+external-controller: :9090
+external-ui: ui
+secret: "123456"
+
+dns:
+  enable: true
+  ipv6: false
+  listen: 0.0.0.0:1053
+  enhanced-mode: fake-ip
+  nameserver:
+    - 223.5.5.5
+    - 8.8.8.8
+
+proxy-providers:
+  Airport:
+    type: http
+    url: "https://dash.pqjc.site/api/v1/client/subscribe?token=9f16732cb9928f9c4b67d912aafc7fbf"
+    interval: 3600
+    path: ./Airport.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  Free_Github:
+    type: http
+    url: "https://cf.tianli0.top/https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vless.yaml"
+    interval: 3600
+    path: ./free.yaml
+    health-check:
+      enable: true
+      interval: 300
+      url: http://www.gstatic.com/generate_204
+
+proxy-groups:
+  - name: "🆓 免费白嫖池 (全自动)"
+    type: url-test
+    use:
+      - Free_Github
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+  - name: "✈️ 主力收费机场"
+    type: select
+    use:
+      - Airport
+  - name: PROXY
+    type: select
+    proxies:
+      - "✈️ 主力收费机场"
+      - "🆓 免费白嫖池 (全自动)"
+      - "Moon-GCP-Belgium"
+      - "Moon-SG-AWS"
+      - "CF-亚太翻墙神机"
+  - name: MATCH
+    type: select
+    proxies:
+      - PROXY
+      - DIRECT
+
+rules:
+  - GEOSITE,CN,DIRECT
+  - GEOIP,LAN,DIRECT,no-resolve
+  - GEOIP,CN,DIRECT
+  - MATCH,PROXY
+
+proxies:
+  - name: "Moon-GCP-Belgium"
+    type: vless
+    server: 34.53.168.57
+    port: 443
+    uuid: abe5f7dd-3fc0-4d83-a153-87709875b69a
+    network: tcp
+    tls: true
+    udp: true
+    flow: xtls-rprx-vision
+    servername: www.microsoft.com
+    reality-opts:
+      public-key: L1lTxc03C8zOHX-DHjOQ30s3DYGn12aZI6wKvw3bIC0
+      short-id: 1b2b3c4d5e6f7a8b
+    client-fingerprint: chrome
+  - name: "Moon-SG-AWS"
+    type: vless
+    server: 13.212.67.185
+    port: 443
+    uuid: abe5f7dd-3fc0-4d83-a153-87709875b69a
+    network: tcp
+    tls: true
+    udp: true
+    flow: xtls-rprx-vision
+    servername: www.microsoft.com
+    reality-opts:
+      public-key: L1lTxc03C8zOHX-DHjOQ30s3DYGn12aZI6wKvw3bIC0
+      short-id: 1b2b3c4d5e6f7a8b
+    client-fingerprint: chrome
+  - name: "CF-亚太翻墙神机"
+    type: vless
+    server: vpn.jpgcp.cloud
+    port: 443
+    uuid: 28661606-f836-460f-87ad-1b7248a455dc
+    network: ws
+    tls: true
+    udp: true
+    sni: vpn.jpgcp.cloud
+    client-fingerprint: chrome
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: vpn.jpgcp.cloud

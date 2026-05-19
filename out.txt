@@ -1,0 +1,11 @@
+- Searching
+playwright-scraper-skill  Playwright Scraper Skill  (3.616)
+playwright  Playwright (Automation + MCP + Scraper)  (3.583)
+playwright-npx  Playwright (scripts) + npx  (3.380)
+playwright-skill  Playwright Skill  (3.372)
+playwright-pro  Playwright Pro  (3.360)
+playwright-scraper-skill-1-2-0  Playwright Scraper Skill 1.2.0  (3.331)
+playwright-cli-openclaw  Playwright CLI Automation  (3.316)
+miliger-playwright-scraper  Miliger Playwright Scraper  (3.279)
+browser-playwright-bridge  Browser Playwright Bridge  (3.260)
+cs-playwright-pro  playwright-pro  (3.251)

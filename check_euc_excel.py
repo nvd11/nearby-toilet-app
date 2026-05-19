@@ -1,0 +1,35 @@
+import os
+import json
+import base64
+import urllib.request
+
+api_key = "AIzaSyB2EQmHBevsc_X2THRuDX0UOkUjL_iQfbQ"
+url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
+
+with open("/home/gateman/.openclaw/workspace/cdr-demise-docs/images/notfull_downstream_list.jpg", "rb") as f:
+    img_data = base64.b64encode(f.read()).decode("utf-8")
+
+prompt = """
+Look at the "Downstream" Excel screenshot carefully.
+Find the rows for "PQM - CE RC", "PQM - I&M", "EUC for M3302...", and "M2799".
+What EXACTLY does it say in the column that lists "Manual - Upload" or "Manual - Rekey"? What is the header of that column if visible?
+Also, look at the "Method of Interface" or "Data Delivery" columns.
+Provide the exact text of those rows to help understand WHY a downstream system is doing an "Upload" or "Rekey".
+"""
+
+payload = {
+    "contents": [{
+        "parts": [
+            {"inline_data": {"mime_type": "image/jpeg", "data": img_data}},
+            {"text": prompt}
+        ]
+    }]
+}
+
+req = urllib.request.Request(url, data=json.dumps(payload).encode('utf-8'), headers={'Content-Type': 'application/json'})
+try:
+    with urllib.request.urlopen(req) as response:
+        res = json.loads(response.read().decode())
+        print(res['candidates'][0]['content']['parts'][0]['text'])
+except Exception as e:
+    print(e)

@@ -1,0 +1,5 @@
+query_id,query,reference_doc_ids
+Q101,Summarize the trade-off between money market funds and short-duration bond funds,DOC010|DOC011|DOC012
+Q102,What are the main considerations when building an emergency fund,DOC013|DOC014
+Q103,How should a RAG system choose chunk size for policy documents,DOC015|DOC016|DOC017
+Q104,Explain why reranking can help dense retrieval systems,DOC018|DOC019

@@ -1,0 +1,11 @@
+{
+  "name": "alist-quark-cookie-updater",
+  "version": "1.0.0",
+  "description": "Auto extract Quark cookie from local Chromium via CDP and push to AList on Starfive.",
+  "scripts": {
+    "update": "python3 scripts/update_quark_cookie.py"
+  },
+  "keywords": ["alist", "quark", "cookie", "playwright", "cdp", "automation"],
+  "author": "Moon (OpenClaw Assistant)",
+  "license": "ISC"
+}

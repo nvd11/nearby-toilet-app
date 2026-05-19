@@ -1,0 +1,113 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>ReAct Agent Sharing</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- 引入 Reveal.js 核心样式 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reset.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.min.css">
+    <!-- 选用极客黑客风的主题 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/theme/dracula.min.css">
+
+    <style>
+        /* Alice 专属定制：极度丝滑的“弹性飞入”动画 */
+        .reveal .slides section .fragment.custom-fly-in {
+            opacity: 0;
+            transform: translateY(300px) scale(0.2);
+            transition: all 1.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+        .reveal .slides section .fragment.custom-fly-in.visible {
+            opacity: 1;
+            transform: translateY(0) scale(1);
+        }
+        /* 自定义高亮颜色，搭配 Dracula 主题 */
+        .highlight-text { color: #50fa7b; } /* 亮绿 */
+        .accent-text { color: #ff79c6; }    /* 粉色 */
+        .info-text { color: #8be9fd; }      /* 青色 */
+    </style>
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+            
+            <!-- 第一页：封面 (缩放切换) -->
+            <section data-transition="zoom">
+                <h1 class="accent-text">ReAct Agent</h1>
+                <h3>Reasoning + Acting in LLMs</h3>
+                <br>
+                <p class="fragment fade-up" style="color: #f8f8f2;">Presenter: Boss Jason</p>
+            </section>
+
+            <!-- 第二页：核心定义 -->
+            <section data-transition="slide">
+                <h2>What is <span class="highlight-text">ReAct</span>?</h2>
+                <br>
+                <ul style="line-height: 1.8;">
+                    <li class="fragment fade-right">🧠 <b>Reasoning (思考):</b> 像人类一样的思维链 (Chain of Thought)</li>
+                    <li class="fragment fade-right">🛠️ <b>Acting (行动):</b> 调用工具与外部世界交互 (API, Search)</li>
+                    <li class="fragment custom-fly-in accent-text" style="margin-top: 20px;">✨ <b>Synergy:</b> 思考指导行动，行动结果反哺思考！</li>
+                </ul>
+            </section>
+
+            <!-- 第三页：执行循环 -->
+            <section data-transition="convex">
+                <h2>The ReAct Core Loop</h2>
+                <br>
+                <h3 class="fragment fade-up info-text">1. Thought 🤔</h3>
+                <h3 class="fragment fade-up" style="color: #f1fa8c;">2. Action ⚡</h3>
+                <h3 class="fragment fade-up" style="color: #ffb86c;">3. Observation 👁️</h3>
+                <br>
+                <!-- 重点飞入动画 -->
+                <h1 class="fragment custom-fly-in accent-text">🔁 Repeat until solved!</h1>
+            </section>
+
+            <!-- 第四页：解决的痛点 -->
+            <section data-transition="concave">
+                <h2>Why do we need it?</h2>
+                <br>
+                <ul style="line-height: 1.8;">
+                    <li class="fragment fade-up">❌ 传统大模型容易<b>幻觉 (Hallucination)</b>且数据滞后。</li>
+                    <li class="fragment fade-up">✅ ReAct 允许模型读取<b>实时数据 (Real-time data)</b>。</li>
+                    <li class="fragment fade-up">✅ 在出错时能自我修正 (Self-correction)。</li>
+                </ul>
+            </section>
+
+            <!-- 第五页：实例展示 (代码块样式) -->
+            <section data-transition="zoom">
+                <h2>A Quick Trace</h2>
+                <pre style="font-size: 0.65em; line-height: 1.5; border-radius: 8px; padding: 20px; background: #282a36; border: 1px solid #6272a4;"><code data-trim data-noescape>
+<span class="fragment fade-in" style="color: #6272a4;">// 目标：查一下东京的天气</span>
+<span class="fragment fade-in info-text">Thought: I need to find the current weather in Tokyo.</span>
+<span class="fragment fade-in" style="color: #f1fa8c;">Action: weather_api("Tokyo")</span>
+<span class="fragment fade-in" style="color: #ffb86c;">Observation: It is currently 22°C and sunny.</span>
+<span class="fragment custom-fly-in info-text">Thought: Now I have the info. I can answer.</span>
+<span class="fragment custom-fly-in highlight-text">Final Answer: The weather in Tokyo is 22°C and sunny.</span>
+                </code></pre>
+            </section>
+
+            <!-- 第六页：结尾致谢 -->
+            <section data-transition="fade">
+                <h1 class="highlight-text">The Future is Agentic</h1>
+                <br>
+                <h3 class="fragment fade-up">From Chatbots ➡️ To Autonomous Agents</h3>
+                <br>
+                <h2 class="fragment custom-fly-in accent-text">Thanks! Q&A?</h2>
+            </section>
+
+        </div>
+    </div>
+
+    <!-- 引入 Reveal.js 核心脚本 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.min.js"></script>
+    <script>
+        Reveal.initialize({
+            controls: true,     // 显示控制箭头
+            progress: true,     // 显示进度条
+            center: true,       // 居中显示
+            hash: true,         // URL hash 路由
+            transition: 'slide' // 默认切换动画
+        });
+    </script>
+</body>
+</html>

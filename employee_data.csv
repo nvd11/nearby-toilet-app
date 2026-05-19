@@ -1,0 +1,5 @@
+employee_id,first_name,last_name,department,salary,join_date
+E1001,Jason,Poon,IT,150000,2018-06-01
+E1002,Alice,AI,Assistant,999999,2026-03-01
+E1003,Bob,Smith,Risk,120000,2020-01-15
+E1004,Carol,Danvers,Compliance,135000,2019-11-20
